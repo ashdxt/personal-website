@@ -1,5 +1,5 @@
 
-this site contains by [me](About-me),
+this site contains cybersecurity writeups written by [me](About-me),
 
 
 publicly available writeups: 
