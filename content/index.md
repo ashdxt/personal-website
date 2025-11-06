@@ -8,7 +8,8 @@ publicly available writeups:
 [[Portswigger academy SSTI lab 3 Serverside template injection using documentation]]
 [[powrtswigger academy SSTI using exploit]]
 [[Portswigger academy SSTI object]]
-
+[[SSTI1 writeup]]
+[[SSTI1 writeup]]
 
 Writeups under embargo (please contact me to view them)
 [[NCL ersatz hotel]]
