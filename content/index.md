@@ -4,12 +4,10 @@ this site contains cybersecurity writeups written by [me](About-me),
 
 publicly available writeups: 
 [[portswigger  academy lab SSTI code context]]
-[[Portswigger code context SSTI]]
 [[Portswigger academy SSTI lab 3 Serverside template injection using documentation]]
 [[powrtswigger academy SSTI using exploit]]
-[[Portswigger academy SSTI object]]
 [[SSTI1 writeup]]
-[[SSTI1 writeup]]
+[[SSTI2 writeup]]
 
 Writeups under embargo (please contact me to view them)
 [[NCL ersatz hotel]]
