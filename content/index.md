@@ -1,5 +1,5 @@
 
-this site contains my writeups,
+this site contains by [me](About-me),
 
 
 publicly available writeups: 
