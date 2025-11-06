@@ -1,6 +1,3 @@
-to do: polish these up and then post them to website:
-to do: write the outbound writeup before I forget all about it
-fix the images
 
 
 [[editor writeup]]
