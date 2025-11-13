@@ -2,10 +2,10 @@ import os
 import re
 import shutil
 
-# Settings
-VAULT_PATH = "/home/snake/test"
+# Settings 
+VAULT_PATH = "/home/snake/quartz/content"
 IMAGE_FOLDER = os.path.join(VAULT_PATH, "/home/snake/test")
-DELETE_UNUSED = True  # Change to True once you're sure it's correct
+DELETE_UNUSED = False  # Change to True once you're sure it's correct
 
 # Regex to catch Obsidian-style and Markdown-style image embeds
 image_pattern = re.compile(r'!\[\[(.*?)\]\]|!\[.*?\]\((.*?)\)')
